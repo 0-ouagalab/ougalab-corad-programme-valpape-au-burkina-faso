@@ -1,0 +1,1 @@
+var json_Centre_rabilit_9 = {"type":"FeatureCollection","name":"Centre_rabilit_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Fianpangou_réabilitation","DESCRPT":null},"geometry":{"type":"Point","coordinates":[0.181396666550913,12.120531666658952]}}]}

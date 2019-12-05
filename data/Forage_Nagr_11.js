@@ -1,0 +1,1 @@
+var json_Forage_Nagr_11 = {"type":"FeatureCollection","name":"Forage_Nagr_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Photographie","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[0.436256666486268,11.803101666654248]}}]}

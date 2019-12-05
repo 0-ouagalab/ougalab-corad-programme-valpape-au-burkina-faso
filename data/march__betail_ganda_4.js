@@ -1,0 +1,1 @@
+var json_march__betail_ganda_4 = {"type":"FeatureCollection","name":"march__betail_ganda_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Marché_à_betail_Ganta","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[-0.076400200064097,13.51320208999525]}}]}

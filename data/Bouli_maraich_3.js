@@ -1,0 +1,1 @@
+var json_Bouli_maraich_3 = {"type":"FeatureCollection","name":"Bouli_maraich_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Bouli_maraiché_Penbouanga","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[1.744086138680092,12.045408238837998]}}]}

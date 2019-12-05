@@ -1,0 +1,1 @@
+var json_Hangar_de_Bourgui_6 = {"type":"FeatureCollection","name":"Hangar_de_Bourgui_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Hangare_de_Bourgui","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[0.429897869825709,12.062340639987589]}}]}

@@ -1,0 +1,1 @@
+var json_Moulin_Guilyende_12 = {"type":"FeatureCollection","name":"Moulin_Guilyende_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Guilyende_ba_Moulin","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[0.11691333323064,12.23047499999319]}}]}

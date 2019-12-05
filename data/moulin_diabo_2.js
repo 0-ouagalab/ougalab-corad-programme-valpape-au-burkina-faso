@@ -1,0 +1,1 @@
+var json_moulin_diabo_2 = {"type":"FeatureCollection","name":"moulin_diabo_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Photographie","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[-0.032678333413921,12.026071666661709]}}]}

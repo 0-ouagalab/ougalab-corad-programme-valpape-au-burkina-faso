@@ -1,0 +1,1 @@
+var json_Bas_fond_Gompousgou_8 = {"type":"FeatureCollection","name":"Bas_fond_Gompousgou_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Bas_fond_de_Gompousgou","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[-0.063443333406653,12.442941666661948]}}]}

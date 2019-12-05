@@ -1,0 +1,1 @@
+var json_kampala_aire_de_sechage_7 = {"type":"FeatureCollection","name":"kampala_aire_de_sechage_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Kampala_aire_de_stokage","DESCRIPT":null},"geometry":{"type":"Point","coordinates":[1.780073332243581,12.05772666655951]}}]}
